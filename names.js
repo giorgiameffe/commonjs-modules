@@ -9,8 +9,6 @@ function createName (firstName, lastName) {
     }
 }
 
-console.log(createName('Giorgia','Meffe'));
-
 // 2. Esporta la funzione dal file.
 
 module.exports = createName;

@@ -10,8 +10,6 @@ function createHobbiesList (hobbyOne, hobbyTwo, hobbyThree) {
     ]
 }
 
-console.log(createHobbiesList('horseriding', 'painting', 'boardgames'))
-
 // 2. Esporta la funzione dal file.
 
 module.exports = createHobbiesList;
